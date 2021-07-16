@@ -1,0 +1,279 @@
+{
+  "words" : [ {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uka/ukacq/ukacqua028.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/a/act/actin/acting.mp3"
+    },
+    "id" : 0,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈæk.tɪŋ/",
+      "US" : "/ˈæk.tɪŋ/"
+    },
+    "word" : "acting"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukp/ukpot/ukpotti013.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/p/pow/pow__/pow.mp3"
+    },
+    "id" : 1,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/paʊ/",
+      "US" : "/paʊ/"
+    },
+    "word" : "pow"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukj/ukjau/ukjaund027.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/j/jee/jeer_/jeer.mp3"
+    },
+    "id" : 2,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/dʒɪr/",
+      "US" : "/dʒɪər/"
+    },
+    "word" : "jeered"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/c/cdo/cdo03/cdo0318ukwimp1593.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/c/cdo/cdo03/cdo0318uswimp5610.mp3"
+    },
+    "id" : 3,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈwɪm.pi/",
+      "US" : "/ˈwɪm.pi/"
+    },
+    "word" : "wimpy"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukf/ukfac/ukfacin016.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/f/fad/fad__/fad.mp3"
+    },
+    "id" : 4,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/fæd/",
+      "US" : "/fæd/"
+    },
+    "word" : "fad"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/e/epd/epd34/epd34921.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/u/usa/usacq/usacqui013.mp3"
+    },
+    "id" : 5,
+    "sylbcount" : 3,
+    "transcriptions" : {
+      "UK" : "/əˈdɑː.dʒi.oʊ/",
+      "US" : "/əˈdɑː.dʒi.əʊ/"
+    },
+    "word" : "adagio"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/e/epd/epd32/epd32621.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/c/cal/cald4/cald4us1679.mp3"
+    },
+    "id" : 6,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈpæd.i/",
+      "US" : "/ˈpæd.i/"
+    },
+    "word" : "paddy"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uku/ukush/ukusher012.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/e/eus/eus74/eus74789.mp3"
+    },
+    "id" : 7,
+    "sylbcount" : 3,
+    "transcriptions" : {
+      "UK" : "/ˈjuː.ʒɚ.i/",
+      "US" : "/ˈjuː.ʒər.i/"
+    },
+    "word" : "usury"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukp/ukpr_/ukpr___022.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/c/cal/cald4/cald4us1846.mp3"
+    },
+    "id" : 8,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/præŋ/",
+      "US" : "/præŋ/"
+    },
+    "word" : "prang"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uko/ukozo/ukozone023.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/p/pac/packe/packed.mp3"
+    },
+    "id" : 9,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/pækt/",
+      "US" : "/pækt/"
+    },
+    "word" : "pact"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uks/uksmu/uksmut_026.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/s/sne/sneak/sneak.mp3"
+    },
+    "id" : 10,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/sniːk/",
+      "US" : "/sniːk/"
+    },
+    "word" : "sneak"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uks/uksty/ukstyli010.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/s/sua/suave/suave.mp3"
+    },
+    "id" : 11,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/swɑːv/",
+      "US" : "/swɑːv/"
+    },
+    "word" : "suave"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukp/ukpad/ukpaddl027.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/u/usp/uspad/uspaddy013.mp3"
+    },
+    "id" : 12,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/peɪnd/",
+      "US" : "/peɪnd/"
+    },
+    "word" : "pained"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukp/ukpsy/ukpsych022.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/u/usp/uspt_/uspt___009.mp3"
+    },
+    "id" : 13,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/pjuːs/",
+      "US" : "/pjuːs/"
+    },
+    "word" : "puce"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukw/ukwan/ukwant_001.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/w/wan/want_/want.mp3"
+    },
+    "id" : 14,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/wɑːnt/",
+      "US" : "/wɒnt/"
+    },
+    "word" : "want"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukl/uklou/ukloudn030.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/l/low/lowly/lowly.mp3"
+    },
+    "id" : 15,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈloʊ.li/",
+      "US" : "/ˈləʊ.li/"
+    },
+    "word" : "lowly"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukl/ukloo/ukloose003.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/l/loo/loot_/loot.mp3"
+    },
+    "id" : 16,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/luːt/",
+      "US" : "/luːt/"
+    },
+    "word" : "lute"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukr/ukrat/ukratio014.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/r/rav/ravag/ravage.mp3"
+    },
+    "id" : 17,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈræv.ɪdʒ/",
+      "US" : "/ˈræv.ɪdʒ/"
+    },
+    "word" : "ravage"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukp/ukpan/ukpanor026.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/p/pap/paper/paper.mp3"
+    },
+    "id" : 18,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈpeɪ.pɚ/",
+      "US" : "/ˈpeɪ.pər/"
+    },
+    "word" : "paper"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uky/ukyie/ukyield001.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/y/yie/yield/yield.mp3"
+    },
+    "id" : 19,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/jiːld/",
+      "US" : "/jiːld/"
+    },
+    "word" : "yield"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uks/uksal/uksalti027.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/u/uss/ussam/ussamar004.mp3"
+    },
+    "id" : 20,
+    "sylbcount" : 3,
+    "transcriptions" : {
+      "UK" : "/səˈmoʊ.sə/",
+      "US" : "/səˈməʊ.sə/"
+    },
+    "word" : "samosa"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/ukt/uktub/uktube_003.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/u/ust/ustru/ustrust015.mp3"
+    },
+    "id" : 21,
+    "sylbcount" : 2,
+    "transcriptions" : {
+      "UK" : "/ˈtuː.bɚ/",
+      "US" : "/ˈtʃuː.bər/"
+    },
+    "word" : "tuber"
+  }, {
+    "Audio" : {
+      "UK_Audio_Path" : "https://dictionary.cambridge.org//media/english/uk_pron/u/uko/ukomn/ukomniv007.mp3",
+      "US_Audio_Path" : "https://dictionary.cambridge.org//media/english/us_pron/e/eus/eus75/eus75023.mp3"
+    },
+    "id" : 22,
+    "sylbcount" : 1,
+    "transcriptions" : {
+      "UK" : "/wʌn/",
+      "US" : "/wʌn/"
+    },
+    "word" : "one"
+  } ]
+}
