@@ -1,0 +1,6 @@
+("corpus","corpora"),
+("genus","genera"),
+("glomus","glomera"),
+("pignus","pignora"),
+("subgenus","subgenera"),
+("viscus","viscera"),
